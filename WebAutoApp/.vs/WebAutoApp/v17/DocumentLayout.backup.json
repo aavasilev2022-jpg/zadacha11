@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\alex12v\\WebAutoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B947E9-1F8D-4F9E-B622-EB061CDD6C78}|WebAutoApp\\WebAutoApp.csproj|c:\\users\\student\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\alex12v\\webautoapp\\webautoapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B947E9-1F8D-4F9E-B622-EB061CDD6C78}|WebAutoApp\\WebAutoApp.csproj|solutionrelative:webautoapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B947E9-1F8D-4F9E-B622-EB061CDD6C78}|WebAutoApp\\WebAutoApp.csproj|c:\\users\\student\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\alex12v\\webautoapp\\webautoapp\\data\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B947E9-1F8D-4F9E-B622-EB061CDD6C78}|WebAutoApp\\WebAutoApp.csproj|solutionrelative:webautoapp\\data\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B947E9-1F8D-4F9E-B622-EB061CDD6C78}|WebAutoApp\\WebAutoApp.csproj|c:\\users\\student\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\alex12v\\webautoapp\\webautoapp\\data\\domain\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B947E9-1F8D-4F9E-B622-EB061CDD6C78}|WebAutoApp\\WebAutoApp.csproj|solutionrelative:webautoapp\\data\\domain\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B947E9-1F8D-4F9E-B622-EB061CDD6C78}|WebAutoApp\\WebAutoApp.csproj|c:\\users\\student\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\alex12v\\webautoapp\\webautoapp\\data\\domain\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B947E9-1F8D-4F9E-B622-EB061CDD6C78}|WebAutoApp\\WebAutoApp.csproj|solutionrelative:webautoapp\\data\\domain\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B947E9-1F8D-4F9E-B622-EB061CDD6C78}|WebAutoApp\\WebAutoApp.csproj|c:\\users\\student\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\alex12v\\webautoapp\\webautoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B947E9-1F8D-4F9E-B622-EB061CDD6C78}|WebAutoApp\\WebAutoApp.csproj|solutionrelative:webautoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B947E9-1F8D-4F9E-B622-EB061CDD6C78}|WebAutoApp\\WebAutoApp.csproj|c:\\users\\student\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\alex12v\\webautoapp\\webautoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4B947E9-1F8D-4F9E-B622-EB061CDD6C78}|WebAutoApp\\WebAutoApp.csproj|solutionrelative:webautoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\alex12v\\WebAutoApp\\WebAutoApp\\Data\\Domain\\Order.cs",
+              "RelativeDocumentMoniker": "WebAutoApp\\Data\\Domain\\Order.cs",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\alex12v\\WebAutoApp\\WebAutoApp\\Data\\Domain\\Order.cs",
+              "RelativeToolTip": "WebAutoApp\\Data\\Domain\\Order.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T07:10:08.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\alex12v\\WebAutoApp\\WebAutoApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebAutoApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\alex12v\\WebAutoApp\\WebAutoApp\\Program.cs",
+              "RelativeToolTip": "WebAutoApp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T07:05:23.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\alex12v\\WebAutoApp\\WebAutoApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebAutoApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\alex12v\\WebAutoApp\\WebAutoApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebAutoApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T08:19:53.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\alex12v\\WebAutoApp\\WebAutoApp\\Data\\Domain\\Client.cs",
+              "RelativeDocumentMoniker": "WebAutoApp\\Data\\Domain\\Client.cs",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\alex12v\\WebAutoApp\\WebAutoApp\\Data\\Domain\\Client.cs",
+              "RelativeToolTip": "WebAutoApp\\Data\\Domain\\Client.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T08:13:35.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\alex12v\\WebAutoApp\\WebAutoApp\\Data\\Domain\\Car.cs",
+              "RelativeDocumentMoniker": "WebAutoApp\\Data\\Domain\\Car.cs",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\alex12v\\WebAutoApp\\WebAutoApp\\Data\\Domain\\Car.cs",
+              "RelativeToolTip": "WebAutoApp\\Data\\Domain\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T08:02:56.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\alex12v\\WebAutoApp\\WebAutoApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAutoApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\alex12v\\WebAutoApp\\WebAutoApp\\appsettings.json",
+              "RelativeToolTip": "WebAutoApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-29T07:14:48.918Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
